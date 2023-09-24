@@ -1,0 +1,11 @@
+.list-items {
+  list-style: none;
+  text-align: left;
+  padding-left: 0;
+}
+
+.paragraph-list {
+  text-align: left;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
